@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "extrait_le": "2026-09-16T08:36:22.186584+00:00",
+    "ville": "Fès",
+    "region": "Fès-Meknès",
+    "population": 1167842,
+    "latitude": 34.0433,
+    "longitude": -5.0033,
+    "source": "open-meteo.com"
+  },
+  "raw": {
+    "latitude": 34.0625,
+    "longitude": -5.0,
+    "generationtime_ms": 0.23734569549560547,
+    "utc_offset_seconds": 3600,
+    "timezone": "Africa/Casablanca",
+    "timezone_abbreviation": "GMT+1",
+    "elevation": 389.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C",
+      "precipitation_sum": "mm",
+      "windspeed_10m_max": "km/h",
+      "windgusts_10m_max": "km/h",
+      "weathercode": "wmo code",
+      "precipitation_hours": "h"
+    },
+    "daily": {
+      "time": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "temperature_2m_max": [
+        31.3,
+        28.9,
+        31.0,
+        34.0,
+        36.1,
+        36.5,
+        36.1
+      ],
+      "temperature_2m_min": [
+        21.0,
+        18.6,
+        18.2,
+        21.1,
+        22.3,
+        22.9,
+        21.3
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "windspeed_10m_max": [
+        16.5,
+        12.8,
+        10.5,
+        17.7,
+        17.7,
+        12.5,
+        9.1
+      ],
+      "windgusts_10m_max": [
+        41.4,
+        33.8,
+        28.8,
+        46.4,
+        44.6,
+        35.8,
+        24.5
+      ],
+      "weathercode": [
+        1,
+        3,
+        3,
+        2,
+        2,
+        2,
+        0
+      ],
+      "precipitation_hours": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

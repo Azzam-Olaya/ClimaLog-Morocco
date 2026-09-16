@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "extrait_le": "2026-09-16T08:36:22.186584+00:00",
+    "ville": "Nador",
+    "region": "Oriental",
+    "population": 161726,
+    "latitude": 35.1667,
+    "longitude": -2.9333,
+    "source": "open-meteo.com"
+  },
+  "raw": {
+    "latitude": 35.1875,
+    "longitude": -2.9375,
+    "generationtime_ms": 1.7948150634765625,
+    "utc_offset_seconds": 3600,
+    "timezone": "Africa/Casablanca",
+    "timezone_abbreviation": "GMT+1",
+    "elevation": 20.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C",
+      "precipitation_sum": "mm",
+      "windspeed_10m_max": "km/h",
+      "windgusts_10m_max": "km/h",
+      "weathercode": "wmo code",
+      "precipitation_hours": "h"
+    },
+    "daily": {
+      "time": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "temperature_2m_max": [
+        29.8,
+        27.1,
+        25.5,
+        25.8,
+        26.0,
+        27.0,
+        26.7
+      ],
+      "temperature_2m_min": [
+        21.6,
+        21.7,
+        22.1,
+        22.7,
+        23.9,
+        22.3,
+        18.3
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        1.0,
+        0.4,
+        0.9,
+        0.0,
+        0.0
+      ],
+      "windspeed_10m_max": [
+        10.4,
+        15.2,
+        14.3,
+        23.9,
+        24.2,
+        23.1,
+        17.3
+      ],
+      "windgusts_10m_max": [
+        25.2,
+        34.6,
+        32.4,
+        52.2,
+        50.4,
+        40.7,
+        31.7
+      ],
+      "weathercode": [
+        2,
+        3,
+        80,
+        80,
+        80,
+        2,
+        45
+      ],
+      "precipitation_hours": [
+        0.0,
+        0.0,
+        7.0,
+        4.0,
+        6.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+}
