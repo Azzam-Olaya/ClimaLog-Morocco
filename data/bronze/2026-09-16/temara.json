@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "extrait_le": "2026-09-16T08:36:22.186584+00:00",
+    "ville": "Temara",
+    "region": "Rabat-Salé-Kénitra",
+    "population": 297098,
+    "latitude": 33.9234,
+    "longitude": -6.9076,
+    "source": "open-meteo.com"
+  },
+  "raw": {
+    "latitude": 33.9375,
+    "longitude": -6.875,
+    "generationtime_ms": 0.9149312973022461,
+    "utc_offset_seconds": 3600,
+    "timezone": "Africa/Casablanca",
+    "timezone_abbreviation": "GMT+1",
+    "elevation": 74.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "temperature_2m_min": "°C",
+      "precipitation_sum": "mm",
+      "windspeed_10m_max": "km/h",
+      "windgusts_10m_max": "km/h",
+      "weathercode": "wmo code",
+      "precipitation_hours": "h"
+    },
+    "daily": {
+      "time": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "temperature_2m_max": [
+        25.8,
+        25.6,
+        25.5,
+        27.8,
+        30.6,
+        26.9,
+        25.1
+      ],
+      "temperature_2m_min": [
+        20.5,
+        18.9,
+        17.4,
+        16.4,
+        20.2,
+        21.4,
+        20.4
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "windspeed_10m_max": [
+        15.9,
+        12.1,
+        13.2,
+        11.9,
+        11.2,
+        12.0,
+        12.1
+      ],
+      "windgusts_10m_max": [
+        40.3,
+        32.4,
+        34.6,
+        31.3,
+        29.5,
+        25.9,
+        24.5
+      ],
+      "weathercode": [
+        2,
+        3,
+        45,
+        45,
+        2,
+        1,
+        45
+      ],
+      "precipitation_hours": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+}
