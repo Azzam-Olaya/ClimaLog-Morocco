@@ -3,8 +3,6 @@ pandas
 requests
 python-dotenv
 pyarrow
-<<<<<<< HEAD
-=======
 pg8000
 sqlalchemy
->>>>>>> 6e5d5ac (Add PostgreSQL configuration and data loading script)
+streamlit
